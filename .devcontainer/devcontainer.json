@@ -19,7 +19,7 @@
 																			"kevinrose.vsc-python-indent",
 																			"coenraads.bracket-pair-colorizer",
 																			"shardulm94.trailing-spaces",
-																			"vscode-icons-team.vscode-icons",]
+																			"pkief.material-icon-theme",]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
